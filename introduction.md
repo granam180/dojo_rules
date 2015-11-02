@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-I love CSS and Angular.
+Becoming a Master at GitHub for me has included the following technologies:
 
-* Javascript
-* Jquery
-=======
-I love CSS and Angular!
->>>>>>> master
+* HTML/CSS
+* PHP
+* Angular.js
+* Grunt.js
+* j j j javascripts
