@@ -1,1 +1,4 @@
-I enjoy learning more about HTML/CSS and Javascript MVC frameworks
+On my way to becoming a GitHub Master. I love Ruby and JavaScript.
+
+* Ruby on Rails
+*Git
