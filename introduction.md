@@ -5,3 +5,4 @@ Becoming a Master at GitHub for me has included the following technologies:
 * Angular.js
 * Grunt.js
 * j j j javascripts
+* Killing history using git rebase
