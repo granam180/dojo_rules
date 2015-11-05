@@ -5,4 +5,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* A grievance of mine as a programmer is when changes are made to your code, uncommented and UNWELCOMED 
+* as a programmer a major 'incovenience' of mine is when changes are made to your code, uncommented and UNWELCOMED 
